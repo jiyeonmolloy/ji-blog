@@ -47,5 +47,37 @@ Here is a quick recap of my learnings!!
     - Celebrating wins
     - Instill ownership
 
-
+###  Whether Serverless or Not, It's all about how you drive your project! 
+#### Speaker: [Nelly Sattari](https://anz.serverlessdays.io/speakers/nelly/)
+- Keywords: Accountable, Agile, Healthy and Focused
+- Don't forget to connect with stakeholders
+- [Atlas](https://www.atlassian.com/software/atlas) Atlassian product that is a teamwork directory. For example, every Monday we can review how the team is doing!
+- Making it clear what everyone's roles and responsibilities are
+- Building an Agile Team
+    - Fixed: People, Team and Scope
+    - Epic ▶ Milestone
+        - Incremental delivery
+        - Breakdown MVP
+        - Carry out within 1 to 2 sprints
+    - Importance of Sprint Goals ⚽
+        - Achieving Sprint Goals is MORE important than shipping all the tickets
+        - Each milestone could be a goal?
+        - Goal setting meeting to review if the team met their goals in the previous sprint
+            - Teams can answer YES, PARTIALLY or NO
+            - If the sprint goal hasn't been met, have a meeting to identify why the goals were not met
+            - Other Agile Rituals include Sprint Checkpoint and Capacity Planning
+- 💟 DATA DRIVEN LEADERS 💟
+    - Identifying work that is carried over multiple sprints, what are the dependencies? Why was this work not completed within the sprint?
+    - Measuring velocity
+    - Measure everything, no "gut feelings"
+- Connection
+    - Social events
+    - Celebrating milestones
+    - Recognition
+    - Beware of burn-outs!
+- Collaboration
+    - Providing training
+    - Mentoring and pairing
+- Data-Driven Engineer who recognises importance of Agile rituals
+- 
 
