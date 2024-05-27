@@ -50,6 +50,11 @@ Here is a quick recap of my learnings!!
 ###  Whether Serverless or Not, It's all about how you drive your project! 
 #### Speaker: [Nelly Sattari](https://anz.serverlessdays.io/speakers/nelly/)
 - Keywords: Accountable, Agile, Healthy and Focused
+- The art of impossible
+    - Coach - Helping individuals
+    - Connector - Building a healthy team
+    - Conductor - Driving projects
+    - Compass - Setting the direction
 - Don't forget to connect with stakeholders
 - [Atlas](https://www.atlassian.com/software/atlas) Atlassian product that is a teamwork directory. For example, every Monday we can review how the team is doing!
 - Making it clear what everyone's roles and responsibilities are
@@ -79,5 +84,31 @@ Here is a quick recap of my learnings!!
     - Providing training
     - Mentoring and pairing
 - Data-Driven Engineer who recognises importance of Agile rituals
-- 
+- More team members can cause overhead
+    - Adding more team members doesn't mean the team will have higher velocity
+- Developing self-healing / stateless / idempotent systems
+- Working on serverless and real time observability
+- Summary
+    - Do the simple thing first
+    - Small team with fast feedback loop - showcase often
+    - Identify risk early, shift-left and spike
+    - Continuously measure performance and stress test
+    - Isolate context boundaries (lambdas)
+    - Solution must prove itself correct
+
+###  Using serverless functions for real-time observability 
+#### Speaker: [Liz Fong-Jones](https://anz.serverlessdays.io/speakers/liz/)
+- Most realtime bulk workloads benefit
+    - Move state from local machines onto object storage
+    - Shard list of objects into work units
+    - Parallelise object processing
+    - Reduce results outside Lambda afterwards
+- Beware the dragons! 🐉
+    - Avoid latency-insensitive batch workloads (cost)
+    - Avoid tiny workloads (set-up latency)
+    - Check cloud provider limits, state your intentions (capacity planning)
+    - Test cross-compilation including profiling to avoid performance issues with switchign architectures
+
+
+
 
